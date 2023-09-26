@@ -18,3 +18,10 @@ Activity 2
 Activity 3
 ![image](https://github.com/eemans21/eemans21.github.io/assets/74782082/123a76b4-854f-4904-8b8c-8c9b780f14fe)
 ![image](https://github.com/eemans21/eemans21.github.io/assets/74782082/c8a1cefd-c006-4618-91fd-72358b584950)
+
+
+
+Activity 4
+![image](https://github.com/eemans21/eemans21.github.io/assets/74782082/10fc81c8-5efb-484c-aa61-ee1d59ff7914)
+![image](https://github.com/eemans21/eemans21.github.io/assets/74782082/a93d4f77-6d3e-4f25-b714-6dd9150b98b2)
+![image](https://github.com/eemans21/eemans21.github.io/assets/74782082/3849d2ef-363d-475b-893f-30dd3090ac00)
